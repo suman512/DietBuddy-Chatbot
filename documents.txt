@@ -1,0 +1,5 @@
+Document = [
+    {"text": "GeeksforGeeks (GFG) is one of the most popular online platforms for computer science education. It is widely used by students, developers, and professionals to learn programming, practice coding problems, and prepare for technical interviews."}
+    {"text": "GFG Practice Portal allows users to solve coding problems of varying difficulty. Includes daily coding challenges (Problem of the Day).Supports multiple programming languages like C, C++, Java, and Python."}
+    {"text": "Offers both free and paid courses in areas such as DSA, Competitive Programming, Web Development, Machine Learning, and System Design. Provides live and self-paced training programs."}
+]
